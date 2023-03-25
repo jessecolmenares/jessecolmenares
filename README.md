@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jessecolmenares
-- 👀 I’m interested in kubernetes, docker/podman, automation, and Openshift
-- 🌱 I’m currently learning openshift
-- 💞️ I’m looking to collaborate on process automatation
+- 👀 I’m interested in  docker/podman, kubernetes, openshift, terraform, automation 
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate on process automation
 - 📫 How to reach me jesse.colmenares@yahoo.com
 
 <!---
